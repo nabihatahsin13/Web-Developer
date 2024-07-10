@@ -76,8 +76,7 @@ height: 1395px;
 display: flex;
 justify-content: center;
 align-items: center;
-padding: 80px 97px 80px 97px;
-margin: 78px 152px 88px 148px;
+margin: 78px 152px 88px 148px; 
 border-radius: 16px;
 
 background: rgba(13, 19, 33, 0.02);
