@@ -227,14 +227,13 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .inspire-content {
     width: 852px;
     height: 115px;
     text-align: center;
-
 }
 
 .inspire-title {
@@ -365,3 +364,90 @@ background: lightblue;
 
 background: lightgreen;
 }
+/* fifth section  */
+#support{
+    height: 314px;
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.support-section{
+    width: 1140px;
+    height: 314px;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 20px;
+border-radius: 16px;
+
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+}
+
+.support-section-content{
+width: 1044px;
+height: 186px;
+    margin: 32px;
+    text-align: center;
+}
+.support-section-title{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 28px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+}
+.support-section-description{
+    color:  rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 40px;
+}
+.feedback{
+    padding: 19px 20px 19px 20px;
+    width: 548px;
+height: 57px;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+color: rgba(13, 19, 33, 0.4);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 40px;
+}
+.feedback-button{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+width: 120px;
+height: 58px;
+padding: 17px 20px 17px 20px;
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+}
+
+
+
+
+
+
